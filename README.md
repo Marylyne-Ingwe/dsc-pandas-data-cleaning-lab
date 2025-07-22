@@ -4,7 +4,7 @@
 In this lab, we'll make use of everything we've learned about pandas, data cleaning, and exploratory data analysis. In order to complete this lab, you'll have to import, clean, combine, reshape, and visualize data to answer questions provided, as well as your own questions!
 
 ## Objectives
-You will be able to:
+You will be able to:  
 - Practice opening and inspecting the contents of CSVs using pandas dataframes
 - Practice identifying and handling missing values
 - Practice identifying and handling invalid values
